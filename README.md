@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Yash Daga from India<br><br>- 🔭 I’m working as Software Engineer at Ria Insurtech<br>- 📚 I'm currently learning MERN Stack and Spring Boot<br>- ⚡ In my free time I leetcode and build projects</p>
+<p align="left">I'm Yash Daga from India with 3+ years of overall primary experience in Backend Technologies with Docker, CI/CD Pipelines, Redis, AWS Services. <br><br>- 🔭 I’m working as Software Engineer at Ria Insurtech<br>- 📚 I'm currently learning MERN Stack and Spring Boot<br>- ⚡ In my free time I leetcode and build projects</p>
 
 ###
 
